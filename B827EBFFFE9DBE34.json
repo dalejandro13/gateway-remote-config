@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFE9DBE34", 
+		"servers": [ 
+			{ 
+				"server_address": "router.us.thethings.network", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": 6.235404, 
+		"ref_longitude": -75.591692, 
+		"ref_altitude": 40, 
+		"contact_email": "persivalag13@gmail.com", 
+		"description": "test for gateway RAK831" 
+	} 
+} 
